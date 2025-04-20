@@ -1,2 +1,2 @@
 # ApexTraining
-Assignments
+Apex Assignments
