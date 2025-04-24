@@ -30,6 +30,11 @@ InterServletCom
 Use this url to access http://localhost:8080/InterServletCom/addUser.html
 
 
+UserRegistrationServlet
+-----------------------
+http://localhost:8080/UserRegistrationServlet/registerPage.html
+
+
 
 
 
