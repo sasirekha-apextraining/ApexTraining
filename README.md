@@ -35,11 +35,49 @@ UserRegistrationServlet
 Use this url to access http://localhost:8080/UserRegistrationServlet/registerPage.html
 
 
+SessionTraining
+---------------
+Use this url to access http://localhost:8080/SessionTraining/user.html
+
+
+FilterDemo
+----------
+Url's are 
+
+http://localhost:8080/FilterDemo/demo
+
+http://localhost:8080/FilterDemo/login
+
+http://localhost:8080/FilterDemo/welcome
+
+
+
+FilterChainingDemo
+------------------
+
+Url's are 
+
+http://localhost:8080/FilterDemo/demo
+
+http://localhost:8080/FilterDemo/login
+
+http://localhost:8080/FilterDemo/welcome
+
+
 UserRegistrationServletWithJSP
 ------------------------------
 Use this url to access http://localhost:8080/UserRegistrationServletWithJSP/registerPage.html
 
 
+JSPDemo
+-------
+Url's are
+
+http://localhost:8080/JSPDemo/
+
+http://localhost:8080/JSPDemo/additionForm.html
+
+http://localhost:8080/JSPDemo/divisionForm.html
 
 
 
